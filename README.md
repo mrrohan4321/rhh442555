@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rhh442555
 - 👀 I’m interested in java
 - 🌱 I’m currently learning loop, array, string
-- 💞️ I’m beginner
+- 💞️ I’m a beginner
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't know anything just a fool. Please teach me github masters.
 
 <!---
 rhh442555/rhh442555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
