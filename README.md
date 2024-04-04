@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhh442555
 - 👀 I’m interested in java
-- 🌱 I’m currently learning loop, array, string
+- 🌱 I’m currently learning JAVA looping, array, string and DSA.
 - 💞️ I’m a beginner
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
